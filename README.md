@@ -4,7 +4,7 @@
 
 <div class=WordSection1>
 
-<h4 align="left">Обзор проекта</h4>
+<h3 align="left">Обзор проекта</h3>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><span
@@ -15,7 +15,7 @@ RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'>Этот репозит
 финансовых данных и сравнения библиотек Matplotlib, Seaborn и Plotly. Также в
 работе используется Pandas DataFrames.<o:p></o:p></span></p>
 
-<h4 align="left">Структура проекта</h4>
+<h3 align="left">Структура проекта</h3>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><span
@@ -252,7 +252,7 @@ lang=EN-US style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe 
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-ansi-language:EN-US;
 mso-fareast-language:RU;mso-bidi-font-weight:bold'><o:p></o:p></span></i></p>
 
-<h4 align="left">Логика работы</h4>
+<h3 align="left">Логика работы</h3>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><span
@@ -1156,7 +1156,7 @@ RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'>Изменить цве
 можно с помощью параметров <i>increasing_line_color</i> – для растущей свечи и <i>decreasing_line_color</i>
 – для падающей свечи.<o:p></o:p></span></p>
 
-<h4 align="left">Заключение</h4>
+<h3 align="left">Заключение</h3>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><span
@@ -1184,13 +1184,7 @@ RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'>Plotly, с другой
 визуализации, что делает ее идеальной для веб-приложений и панелей мониторинга,
 требующих взаимодействия с пользователем. <o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white'><span
-style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
-RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p>&nbsp;</o:p></span></p>
-
-<h4 align="left">Список необходимых библиотек:</h4>
+<h3 align="left">Список необходимых библиотек:</h3>
 
 <p class=MsoNormal style='mso-margin-bottom-alt:auto;line-height:normal;
 background:white'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
