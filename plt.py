@@ -2,9 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 df = pd.read_csv("ohlc.csv")
-# Pandas.to_datetime() — это метод, который используется для преобразования различных типов данных в объекты datetime.
+
 df['Date'] = pd.to_datetime(df['Date'])
-# Метод set_index() в Pandas возвращает новый DataFrame с указанным набором столбцов.
 date = df.set_index('Date')
 
 # Линейный график
