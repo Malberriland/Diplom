@@ -5,11 +5,6 @@
 <div class=WordSection1>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#1F2328;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></b></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:3;background:white'><a
 href="https://urban-university.ru/members/courses/course999421818026/null"><b><span
 style='font-size:13.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
