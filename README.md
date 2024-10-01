@@ -4,18 +4,7 @@
 
 <div class=WordSection1>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#1F2328;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></b></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white'><a
-href="https://urban-university.ru/members/courses/course999421818026/null"><b><span
-style='font-size:15pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:windowtext;mso-fareast-language:RU'>Обзор проекта</span></b></a><b><span
-style='font-size:15pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></b></p>
+<h4 align="left">Обзор проекта</h4>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><span
@@ -26,19 +15,7 @@ RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'>Этот репозит
 финансовых данных и сравнения библиотек Matplotlib, Seaborn и Plotly. Также в
 работе используется Pandas DataFrames.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white'><span
-style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
-RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white'><a
-href="https://urban-university.ru/members/courses/course999421818026/null"><b><span
-style='font-size:15pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:windowtext;mso-fareast-language:RU'>Структура проекта</span></b></a><b><span
-style='font-size:15pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></b></p>
+<h4 align="left">Структура проекта</h4>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><span
@@ -275,13 +252,7 @@ lang=EN-US style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe 
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-ansi-language:EN-US;
 mso-fareast-language:RU;mso-bidi-font-weight:bold'><o:p></o:p></span></i></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white'><a
-href="https://urban-university.ru/members/courses/course999421818026/null"><b><span
-style='font-size:13.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:windowtext;mso-fareast-language:RU'>Логика работы:</span></b></a><b><span
-style='font-size:13.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:RU'><o:p></o:p></span></b></p>
+<h4 align="left">Логика работы</h4>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><span
@@ -452,9 +423,9 @@ auto;text-align:center;line-height:normal;mso-outline-level:2;background:white'>
 style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Рисунок_x0020_3" o:spid="_x0000_i1034" type="#_x0000_t75" style='width:468pt;
  height:302.4pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image003.png" o:title=""/>
+ <v:imagedata src="image003.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=780 height=504
-src="Диплом%20(2).files/image004.png" v:shapes="Рисунок_x0020_3"><![endif]></span><span
+src="image003.png" v:shapes="Рисунок_x0020_3"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -566,9 +537,9 @@ style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;mso-bidi-font-s
 color:#1F2328;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Рисунок_x0020_4" o:spid="_x0000_i1033" type="#_x0000_t75" style='width:468pt;
  height:233.4pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image005.png" o:title=""/>
+ <v:imagedata src="image005.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=780 height=389
-src="Диплом%20(2).files/image006.png" v:shapes="Рисунок_x0020_4"><![endif]></span></i><i><span
+src="image005.png" v:shapes="Рисунок_x0020_4"><![endif]></span></i><i><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold'><o:p></o:p></span></i></p>
@@ -585,9 +556,9 @@ auto;text-align:center;line-height:normal;mso-outline-level:2;background:white'>
 style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Рисунок_x0020_1" o:spid="_x0000_i1032" type="#_x0000_t75" style='width:309pt;
  height:229.2pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image007.png" o:title=""/>
+ <v:imagedata src="image007.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=515 height=382
-src="Диплом%20(2).files/image008.png" v:shapes="Рисунок_x0020_1"><![endif]></span><span
+src="image007.png" v:shapes="Рисунок_x0020_1"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -616,9 +587,9 @@ mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_14" o:spid="_x0000_i1031"
  type="#_x0000_t75" style='width:289.8pt;height:222.6pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image009.png" o:title=""/>
+ <v:imagedata src="image009.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=483 height=371
-src="Диплом%20(2).files/image010.png" v:shapes="Рисунок_x0020_14"><![endif]></span><span
+src="image009.png" v:shapes="Рисунок_x0020_14"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -685,9 +656,9 @@ mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_11" o:spid="_x0000_i1030"
  type="#_x0000_t75" style='width:468pt;height:262.2pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image011.png" o:title=""/>
+ <v:imagedata src="image011.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=780 height=437
-src="Диплом%20(2).files/image012.png" v:shapes="Рисунок_x0020_11"><![endif]></span><span
+src="image011.png" v:shapes="Рисунок_x0020_11"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -786,9 +757,9 @@ auto;text-align:center;line-height:normal;mso-outline-level:2;background:white'>
 style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Рисунок_x0020_6" o:spid="_x0000_i1029" type="#_x0000_t75" style='width:440.4pt;
  height:240pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image013.png" o:title=""/>
+ <v:imagedata src="image013.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=734 height=400
-src="Диплом%20(2).files/image014.png" v:shapes="Рисунок_x0020_6"><![endif]></span><span
+src="image013.png" v:shapes="Рисунок_x0020_6"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -848,9 +819,9 @@ auto;text-align:center;line-height:normal;mso-outline-level:2;background:white'>
 style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Рисунок_x0020_7" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:393.6pt;
  height:312pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image015.png" o:title=""/>
+ <v:imagedata src="image015.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=656 height=520
-src="Диплом%20(2).files/image016.png" v:shapes="Рисунок_x0020_7"><![endif]></span><span
+src="image015.png" v:shapes="Рисунок_x0020_7"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -899,9 +870,9 @@ mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_12" o:spid="_x0000_i1027"
  type="#_x0000_t75" style='width:467.4pt;height:226.2pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image017.png" o:title=""/>
+ <v:imagedata src="image017.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=779 height=377
-src="Диплом%20(2).files/image018.png" v:shapes="Рисунок_x0020_12"><![endif]></span><span
+src="image017.png" v:shapes="Рисунок_x0020_12"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -1021,9 +992,9 @@ mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_10" o:spid="_x0000_i1026"
  type="#_x0000_t75" style='width:467.4pt;height:224.4pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image019.png" o:title=""/>
+ <v:imagedata src="image019.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=779 height=374
-src="Диплом%20(2).files/image020.png" v:shapes="Рисунок_x0020_10"><![endif]></span><span
+src="image019.png" v:shapes="Рисунок_x0020_10"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -1144,9 +1115,9 @@ mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_13" o:spid="_x0000_i1025"
  type="#_x0000_t75" style='width:468.6pt;height:225.6pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image021.png" o:title=""/>
+ <v:imagedata src="image021.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=781 height=376
-src="Диплом%20(2).files/image022.png" v:shapes="Рисунок_x0020_13"><![endif]></span><span
+src="image021.png" v:shapes="Рисунок_x0020_13"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -1191,10 +1162,7 @@ style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-se
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p>&nbsp;</o:p></span></p>
 
-<h3 style='background:white'><a
-href="https://urban-university.ru/members/courses/course999421818026/null"><span
-style='font-family:"Arial",sans-serif;color:windowtext'>Заключение</span></a><span
-style='font-family:"Arial",sans-serif'><o:p></o:p></span></h3>
+<h4 align="left">Заключение</h4>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;mso-outline-level:2;background:white'><span
