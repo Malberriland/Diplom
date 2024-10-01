@@ -370,7 +370,7 @@ style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
  style='width:467.4pt;height:242.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Диплом%20(2).files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=779 height=404
-src="Диплом%20(2).files/image002.png" v:shapes="Рисунок_x0020_2"><![endif]></span><span
+src="image001.png" v:shapes="Рисунок_x0020_2"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
