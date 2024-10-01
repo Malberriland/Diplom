@@ -339,9 +339,9 @@ style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Рисунок_x0020_2" o:spid="_x0000_i1035" type="#_x0000_t75"
  style='width:467.4pt;height:242.4pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Диплом%20(2).files/image001.png" o:title=""/>
+ <v:imagedata src="Image/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=779 height=404
-src="image001.png" v:shapes="Рисунок_x0020_2"><![endif]></span><span
+src="Image/image001.png" v:shapes="Рисунок_x0020_2"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -425,7 +425,7 @@ style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  height:302.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="image003.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=780 height=504
-src="image003.png" v:shapes="Рисунок_x0020_3"><![endif]></span><span
+src="Image/image003.png" v:shapes="Рисунок_x0020_3"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -539,7 +539,7 @@ color:#1F2328;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:sh
  height:233.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="image005.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=780 height=389
-src="image005.png" v:shapes="Рисунок_x0020_4"><![endif]></span></i><i><span
+src="Image/image005.png" v:shapes="Рисунок_x0020_4"><![endif]></span></i><i><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold'><o:p></o:p></span></i></p>
@@ -558,7 +558,7 @@ style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  height:229.2pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="image007.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=515 height=382
-src="image007.png" v:shapes="Рисунок_x0020_1"><![endif]></span><span
+src="Image/image007.png" v:shapes="Рисунок_x0020_1"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -589,7 +589,7 @@ RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_14" o:
  mso-wrap-style:square'>
  <v:imagedata src="image009.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=483 height=371
-src="image009.png" v:shapes="Рисунок_x0020_14"><![endif]></span><span
+src="Image/image009.png" v:shapes="Рисунок_x0020_14"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -658,7 +658,7 @@ RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_11" o:
  mso-wrap-style:square'>
  <v:imagedata src="image011.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=780 height=437
-src="image011.png" v:shapes="Рисунок_x0020_11"><![endif]></span><span
+src="Image/image011.png" v:shapes="Рисунок_x0020_11"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -759,7 +759,7 @@ style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  height:240pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="image013.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=734 height=400
-src="image013.png" v:shapes="Рисунок_x0020_6"><![endif]></span><span
+src="Image/image013.png" v:shapes="Рисунок_x0020_6"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -821,7 +821,7 @@ style='mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  height:312pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="image015.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=656 height=520
-src="image015.png" v:shapes="Рисунок_x0020_7"><![endif]></span><span
+src="Image/image015.png" v:shapes="Рисунок_x0020_7"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -872,7 +872,7 @@ RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_12" o:
  mso-wrap-style:square'>
  <v:imagedata src="image017.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=779 height=377
-src="image017.png" v:shapes="Рисунок_x0020_12"><![endif]></span><span
+src="Image/image017.png" v:shapes="Рисунок_x0020_12"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -994,7 +994,7 @@ RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_10" o:
  mso-wrap-style:square'>
  <v:imagedata src="image019.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=779 height=374
-src="image019.png" v:shapes="Рисунок_x0020_10"><![endif]></span><span
+src="Image/image019.png" v:shapes="Рисунок_x0020_10"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -1117,7 +1117,7 @@ RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Рисунок_x0020_13" o:
  mso-wrap-style:square'>
  <v:imagedata src="image021.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=781 height=376
-src="image021.png" v:shapes="Рисунок_x0020_13"><![endif]></span><span
+src="Image/image021.png" v:shapes="Рисунок_x0020_13"><![endif]></span><span
 style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p></o:p></span></p>
@@ -1156,12 +1156,6 @@ RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'>Изменить цве
 можно с помощью параметров <i>increasing_line_color</i> – для растущей свечи и <i>decreasing_line_color</i>
 – для падающей свечи.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white'><span
-style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
-RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p>&nbsp;</o:p></span></p>
-
 <h4 align="left">Заключение</h4>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -1196,10 +1190,7 @@ style='font-size:14.0pt;mso-bidi-font-size:18.0pt;font-family:"Segoe UI",sans-se
 mso-fareast-font-family:"Times New Roman";color:#1F2328;mso-fareast-language:
 RU;mso-bidi-font-weight:bold;mso-bidi-font-style:italic'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white'><b><u><span
-style='font-size:13.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:RU'>Список необходимых библиотек:<o:p></o:p></span></u></b></p>
+<h4 align="left">Список необходимых библиотек:</h4>
 
 <p class=MsoNormal style='mso-margin-bottom-alt:auto;line-height:normal;
 background:white'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
