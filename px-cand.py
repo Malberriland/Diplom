@@ -4,7 +4,9 @@ from dash import Dash, dcc, html
 
 
 app = Dash(__name__)
-def display_candlestick(df):
+def candlesticks(df_):
+    """Return a candlestick chart."""
+    df = pd.read_csv(df_)
     fig = go.Figure(
         data=[
             go.Candlestick(
@@ -20,7 +22,7 @@ def display_candlestick(df):
     )
     fig.update_xaxes(rangeslider_visible=True)
     fig.update_layout(
-                      yaxis_title='Изменение цены',
+                      yaxis_title='Цена, USD',
                       xaxis_title='Дата',
                       font=dict(family="Times New Roman", size=20, color="Black")
                       )
@@ -31,7 +33,7 @@ app.layout = html.Div(
         children=[
             html.H1('Объем торговли с течением времени'),
             dcc.Graph(
-                figure=display_candlestick(pd.read_csv('ohlc.csv')),
+                figure=candlesticks('ohlc.csv'),
                 style={"height": "85vh"}
                     )
         ]
